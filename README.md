@@ -2,6 +2,13 @@
 
 Caption Craft is an AI-powered app designed to help you effortlessly create captions and tags for your images, tailored to your social media needs. Whether you're a Doctor, Engineer, or any other professional, this app generates engaging content based on your input.
 
+## Vote for Caption Craft
+
+I've submitted **Caption Craft** to the **Google Developer Competition**, and your support can help me win! If you believe in this project, please cast your vote:
+
+🌟 [Vote here!](https://ai.google.dev/competition/projects/caption-craft) 🌟
+
+
 ## Features
 
 - **Upload an Image**: Choose an image in PNG, JPEG, or GIF format.
