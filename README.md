@@ -1,4 +1,3 @@
-# caption-App
 # Caption Craft - Capture. Caption. Copy.
 
 Caption Craft is an AI-powered app designed to help you effortlessly create captions and tags for your images, tailored to your social media needs. Whether you're a Doctor, Engineer, or any other professional, this app generates engaging content based on your input.
