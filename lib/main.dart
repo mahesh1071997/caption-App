@@ -8,7 +8,7 @@ void main()async {
 
   final generativeModelService = GenerativeModelService(
     model: 'gemini-1.5-flash',
-    apiKey: 'AIzaSyBrtPiP9yDHpBX9Dfhztlqd-glFXE1U2ak',
+    apiKey: 'your Key',
   );
   Get.put(generativeModelService);
   runApp(GetMaterialApp(
