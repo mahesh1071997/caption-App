@@ -1,0 +1,7 @@
+
+apiKey: "AIzaSyBrtPiP9yDHpBX9Dfhztlqd-glFXE1U2ak",
+
+
+// Optionally, save the picked file path to get_storage or other storage method.
+      // Example using get_storage:
+      // GetStorage().write('imagePath', pickedFile.path);
